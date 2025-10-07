@@ -5,6 +5,7 @@ An autologger script for NationStates.
 - Requests Library: https://pypi.org/project/requests/
 ## Installation
 - Download and install Python 3.13 and the requests library
+- Download the repository (Code -> Download ZIP)
 - Update the script to include a UserAgent. This should identify you, e.g. your nation name or email address
 ## Running
 - Fill out the "nationPasswords.csv" file with the nations you wish for the autologger to log into using the format "nation,password" format and save
