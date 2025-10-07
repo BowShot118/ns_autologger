@@ -60,8 +60,9 @@ if len(failedList) > 1:
     print(f"{(len(failedList)-1)} nations failed to be logged into. The list of those nations can be found in the \'failedNations.csv\' file in this program's file directory")
     with open("failedNations.csv","w+",newline="") as file:
         writer = csv.writer(file)
-        writer.writerows(cteList)
+        writer.writerows(failedList)
 
 print("Autologger Complete")
 time.sleep(10)
+
 
