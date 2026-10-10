@@ -2,7 +2,6 @@
 An autologger script for NationStates.
 ## Requirements:
 - Python 3.13+
-- Requests Library: https://pypi.org/project/requests/
 ## Installation
 - Download and install Python 3.13 and the requests library
 - Download the repository (Code -> Download ZIP)
